@@ -15,7 +15,7 @@
 
 ::: code-group
 
-```bash [PySide6]
+```sh [PySide6]
 pip install PySide6 darkdetect  # 在 TestPypi 中这两个包没有 Release，当 RinUI 发布到 PyPi 时，即可省略此步骤。
 pip install -i https://test.pypi.org/simple/ RinUI --no-deps
 ```
@@ -64,7 +64,7 @@ FluentWindowBase { // [!code highlight]
 }
 ```
 
-```python
+```python [Python]
 import sys
 from PySide6.QtWidgets import QApplication
 

@@ -1,7 +1,7 @@
 # Introduction
 
 ## What is RinUI?
-RinUI is a UI library similar to [Fluent Design](https://fluent2.microsoft.design/) for Qt Quick (QML), RinUI will provide high-quality components and practical functions. With simple configuration, you can quickly develop elegant UI interfaces in the Fluent style.
+RinUI is a UI library similar to [Fluent Design](https://fluent2.microsoft.design/) for Qt Quick (QML). It provides high-quality components and practical functions. With simple configuration, you can quickly develop elegant UI interfaces in the Fluent style.
 
 > [!WARNING]
 > RinUI is still in development and not ready for use!
@@ -25,7 +25,8 @@ RinUI is a UI library similar to [Fluent Design](https://fluent2.microsoft.desig
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons/)
 
 ### Contributors
-Thank you to the excellent developers who have contributed to this project.
+Thanks to the great people who contributed to this project.
+
 [![Contributors](http://contrib.nn.ci/api?repo=rinlit-233-shiroko/Rin-UI)](https://github.com/RinLit-233-shiroko/Rin-UI/graphs/contributors)
 
 ## License
